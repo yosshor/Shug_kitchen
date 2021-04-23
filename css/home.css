@@ -1,0 +1,76 @@
+#naber {
+    z-index: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+    text-align: center;
+    color: brown;
+    animation-name: h1color;
+    animation-duration: 15s;
+    height: 60px;
+    padding-top: 10px;
+    animation-iteration-count: infinite;
+}
+
+@keyframes h1color {
+    0% {
+        background-color: rgb(167, 103, 20);
+        color: rgb(91, 87, 95);
+    }
+    25% {
+        background-color: rgb(168, 128, 15);
+        color: rgb(7, 5, 5);
+    }
+    50% {
+        background-color: rgb(134, 101, 11);
+        color: burlywood;
+    }
+    75% {
+        background-color: rgb(197, 148, 12);
+        color: rgb(165, 146, 153);
+    }
+    100% {
+        background-color: rgb(136, 84, 16);
+        color: blanchedalmond;
+    }
+}
+
+footer {
+    display: block;
+    background-color: rgb(29, 28, 26);
+    color: blanchedalmond;
+    text-align: center;
+    /* padding-bottom: 10px; */
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}
+
+
+/* 
+.art {
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+} */
+
+.article {
+    margin-bottom: 300px;
+}
+
+.relative {
+    position: relative;
+}

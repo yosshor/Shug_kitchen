@@ -1,0 +1,33 @@
+#naber {
+    z-index: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+#tofes {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+    height: 50px;
+    padding: 5px;
+}
+
+footer {
+    background-color: rgb(29, 28, 26);
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}

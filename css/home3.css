@@ -1,0 +1,50 @@
+#naber {
+    z-index: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+footer {
+    background-color: rgb(29, 28, 26);
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}
+
+.carousel-inner {
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-top: 50px;
+    width: 96%;
+    margin: auto;
+}
+
+.m {
+    margin-left: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 2px;
+    font-style: italic;
+}
+
+section {
+    margin-top: 100px;
+    text-align: center;
+}
+
+p footer {
+    text-align: center;
+}

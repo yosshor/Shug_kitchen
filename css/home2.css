@@ -1,0 +1,38 @@
+body {
+    background-image: url(./background_pic.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#naber {
+    z-index: 1 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+footer {
+    background-color: rgb(29, 28, 26);
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}
+
+
+/* #play {
+    background-color: rgb(12, 12, 12) !important;
+    color: rgb(223, 215, 215) !important;
+    border: blanchedalmond solid 1px !important;
+} */
+
+
+/* nav{
+    position: fixed !important;
+    width: 100%;
+    font-weight: bold;
+   
+ } */

@@ -1,0 +1,55 @@
+#naber {
+    z-index: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+footer {
+    background-color: rgb(29, 28, 26);
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+}
+
+
+/* .card {
+    padding: 50px;
+    margin: 20px;
+    padding-top: 25px;
+    border: black 3px solid;
+} */
+
+
+/* .row {
+    padding: 10px;
+    margin: 10px;
+    padding-top: 50px;
+} */
+
+@media (max-width:100px) {
+    body {
+        background-color: black;
+    }
+    .card {
+        border: wheat 2px solid;
+    }
+}
+
+img:hover {
+    border: solid black 10px;
+}
+
+
+/* section {
+    margin: auto;
+} */
