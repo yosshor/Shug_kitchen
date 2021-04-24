@@ -6,11 +6,16 @@ body {
 
 #naber {
     z-index: 1 !important;
+    font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navbar-brand {
     font-size: 25px;
+}
+
+.hidden {
+    display: none;
 }
 
 footer {
@@ -30,9 +35,14 @@ footer {
 } */
 
 
-/* nav{
-    position: fixed !important;
-    width: 100%;
-    font-weight: bold;
-   
- } */
+/* nav { */
+
+
+/* position: fixed !important; */
+
+
+/* width: 100%; */
+
+
+/* font-weight: bold;
+} */

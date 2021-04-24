@@ -23,6 +23,10 @@ label {
     padding: 5px;
 }
 
+#my {
+    background-color: bisque;
+}
+
 footer {
     background-color: rgb(29, 28, 26);
     color: blanchedalmond;
@@ -30,4 +34,18 @@ footer {
     padding-bottom: 25px;
     font-family: "Brush Script MT", cursive;
     font-size: 25px;
+}
+
+h2 {
+    position: center;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.md-form {
+    position: center;
+    text-align: center;
 }
